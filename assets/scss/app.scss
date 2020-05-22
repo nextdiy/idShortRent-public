@@ -1,0 +1,19 @@
+$app-primary-color: #e82860;
+$app-console-color: #404858;
+$app-header-height: 132px;
+
+@mixin overflow-ellipsis($line: 1){
+    -webkit-line-clamp: $line;
+    display: -webkit-box;
+    -webkit-box-orient:vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+@mixin clearfix() {
+    &:after{
+        content:""; 
+        display: block; 
+        clear:both; 
+    }
+}

@@ -30,7 +30,7 @@ $ yarn generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 
-# 部署到服务器
+## 部署到服务器
 
 ``` bash
 # UAT

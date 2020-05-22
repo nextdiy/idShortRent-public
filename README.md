@@ -7,5 +7,4 @@
 2. 前端基于Nuxt.js +  Mand Mobile UI
 3. 后端：Java开发（暂不考虑开源）
 4. 暂只支持微信支付（YunGou OS提供个人签约的支付SDK），以及微信授权登录功能
-
-
+5. ...

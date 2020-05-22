@@ -32,10 +32,12 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 # 部署到服务器
 
-$ UAT
+``` bash
+# UAT
 $ pm2-uat-init #第一次部署需初始化
 $ pm2-uat #部署到UAT
 
-$ LIVE
+# LIVE
 $ pm2-live-init #第一次部署需初始化
 $ pm2-live #部署到LIVE
+```
